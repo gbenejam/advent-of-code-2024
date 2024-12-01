@@ -2,4 +2,4 @@
 
 ## Quick access to days
 
-- [Day 1 - Historian Hysteria](#day-1)
+- [Day 1 - Historian Hysteria](day-1/README.md)
