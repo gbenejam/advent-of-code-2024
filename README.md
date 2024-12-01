@@ -1,2 +1,5 @@
 # advent-of-code-2024
-Python-based
+
+## Quick access to days
+
+- [Day 1 - Historian Hysteria](#day-1)
